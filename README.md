@@ -1,6 +1,4 @@
 
-
-
 <img
   src="https://user-images.githubusercontent.com/55269298/177011706-f8dc5c14-17cf-41af-b596-a8feac4a3121.jpg"
   alt="Alt text"
